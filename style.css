@@ -312,13 +312,13 @@ section{
     width: 90%;
 }
 .progress-line.css span{
-    width: 65%;
+    width: 79%;
 }
 .progress-line.javascript span{
-    width: 75%;
+    width: 83%;
 }
-.progress-line.python span{
-    width: 50%;
+.progress-line.java span{
+    width: 85%;
 }
 .progress-line.react span{
     width: 80%;
